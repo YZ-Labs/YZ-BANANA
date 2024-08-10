@@ -17,3 +17,4 @@ node banana.js
 
 运行多号多代理，在data.txt添加token、在proxy.txt添加代理
 node banana-proxy.js
+![image](https://github.com/user-attachments/assets/9a24e0a7-ec1f-4ea9-b90e-267864b9c42a)
