@@ -1,0 +1,5 @@
+type://username:password:ip:port
+type://username:password:ip:port
+type://username:password:ip:port
+type://username:password:ip:port
+type://username:password:ip:port
